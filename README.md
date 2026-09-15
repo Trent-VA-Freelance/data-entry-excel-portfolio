@@ -116,6 +116,20 @@ The spreadsheet was checked for:
 
 **Microsoft Excel**
 
+## 📸 Project Preview
+
+### Order Management
+
+![Order Management](order-management.png)
+
+### Data Cleaning
+
+![Data Cleaning](data-cleaning.png)
+
+### Excel Features
+
+![Excel Features](excel-features.png)
+
 ---
 
 ## 📌 Project Type
